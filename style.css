@@ -40,13 +40,13 @@ body {
 
 @media (max-width: 775px) {
   .title {
-    font-size: 60px;
+    font-size: 50px;
     color: transparent;
     -webkit-text-stroke: 3px white;
     text-shadow: none;
     text-align: center;
     font-family: Impact;
-    letter-spacing: 10px;
+    letter-spacing: 12px;
   }
   .title-under {
     font-size: 40px;
