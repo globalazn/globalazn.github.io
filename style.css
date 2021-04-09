@@ -45,8 +45,9 @@ body {
     -webkit-text-stroke: 3px white;
     text-shadow: none;
     text-align: center;
-    font-family: Impact;
-    letter-spacing: 12px;
+    font-family: Impact, Haettenschweiler, "Franklin Gothic Bold", Charcoal, "Helvetica Inserat", "Bitstream Vera Sans Bold", "Arial Black", "sans serif";
+    font-style: initial;
+    letter-spacing: 10px;
   }
   .title-under {
     font-size: 40px;
@@ -54,14 +55,16 @@ body {
     -webkit-text-stroke: 2px white;
     text-shadow: none;
     text-align: center;
-    font-family: Impact;
+    font-family: Impact, Haettenschweiler, "Franklin Gothic Bold", Charcoal, "Helvetica Inserat", "Bitstream Vera Sans Bold", "Arial Black", "sans serif";
+    font-style: initial;
     letter-spacing: 4px;
   }
   .btn-listen {
     background-color: white;
     color: black;
     text-shadow: none; 
-    font-family: Impact;
+    font-family: Impact, Haettenschweiler, "Franklin Gothic Bold", Charcoal, "Helvetica Inserat", "Bitstream Vera Sans Bold", "Arial Black", "sans serif";
+    font-style: initial;
     text-align: center;
     border: none;
     font-size: 20px;
@@ -76,7 +79,8 @@ body {
     -webkit-text-stroke: 4px white;
     text-shadow: none;
     text-align: center;
-    font-family: Impact;
+    font-family: Impact, Haettenschweiler, "Franklin Gothic Bold", Charcoal, "Helvetica Inserat", "Bitstream Vera Sans Bold", "Arial Black", "sans serif";
+    font-style: initial;
     letter-spacing: 30px;
   }
   .title-under {
@@ -85,14 +89,16 @@ body {
     -webkit-text-stroke: 3px white;
     text-shadow: none;
     text-align: center;
-    font-family: Impact;
+    font-family: Impact, Haettenschweiler, "Franklin Gothic Bold", Charcoal, "Helvetica Inserat", "Bitstream Vera Sans Bold", "Arial Black", "sans serif";
+    font-style: initial;
     letter-spacing: 5px;
   }
   .btn-listen {
     background-color: white;
     color: black;
     text-shadow: none; 
-    font-family: Impact;
+    font-family: Impact, Haettenschweiler, "Franklin Gothic Bold", Charcoal, "Helvetica Inserat", "Bitstream Vera Sans Bold", "Arial Black", "sans serif";
+    font-style: initial;
     text-align: center;
     border: none;
     font-size: 35px;
@@ -101,7 +107,7 @@ body {
   }
 }
 
-.title-card{
+.title-card {
   position: fixed;
   left: 50%;
   transform: translate(-50%, -50%);
